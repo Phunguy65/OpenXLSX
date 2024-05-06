@@ -51,8 +51,8 @@ YM      M9  MM    MM MM       MM    MM   d'  `MM.    MM            MM   d'  `MM.
 #pragma warning(disable : 4275)
 
 // ===== External Includes ===== //
+#include <cstdint>
 #include <string>
-
 // ===== OpenXLSX Includes ===== //
 #include "OpenXLSX-Exports.hpp"
 
